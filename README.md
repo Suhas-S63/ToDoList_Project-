@@ -1,2 +1,5 @@
-# ToDoList_Project-
-A small web application on ToDo List / Productivity System enabling users to track their task and apply CRUD operations on them 
+# Django ToDo list with user authentication
+To Do list app with User Registration, Login, Search and Create Read Update and DELETE functionality.
+
+Project by Guhan KS , SaiDarshan and Suhas S
+
